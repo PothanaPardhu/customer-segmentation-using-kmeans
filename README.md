@@ -85,5 +85,7 @@ Save cluster models for future use
 
 Deploy to Streamlit Cloud or Heroku
 
+🚀 **Click here to Try the Live App**] https://customer-segmentation-using-kmeans-pardhu-ml-app.streamlit.app/
+
 📝 License
 This project is open-source and free to use under the MIT License.
